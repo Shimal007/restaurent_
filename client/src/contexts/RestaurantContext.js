@@ -18,7 +18,7 @@ const RestaurantProvider = ({ children }) => {
     useEffect(() => {
         const fetchRestaurants = async () => {
             try {
-                const response = await axios.get("http://localhost:5000/api/restaurants");
+                const response = await axios.get("https://restaurent-dutp.onrender.com/api/restaurants");
                 setRestaurants(response.data);
             } catch (error) {
                 console.error("Error fetching restaurants:", error.message);
@@ -56,7 +56,7 @@ const RestaurantProvider = ({ children }) => {
     const login = async (credentials) => {
         try {
             const response = await axios.post(
-                "http://localhost:5000/api/auth/login", 
+                "https://restaurent-dutp.onrender.com/api/auth/login", 
                 credentials
             );
             
@@ -81,7 +81,7 @@ const RestaurantProvider = ({ children }) => {
     const register = async (userData) => {
         try {
             const response = await axios.post(
-                "http://localhost:5000/api/auth/register", 
+                "https://restaurent-dutp.onrender.com/api/auth/register", 
                 userData
             );
             
@@ -171,7 +171,7 @@ const RestaurantProvider = ({ children }) => {
             };
 
             const response = await axios.post(
-                "http://localhost:5000/api/orders",
+                "https://restaurent-dutp.onrender.com/api/orders",
                 orderData,
                 {
                     headers: {
