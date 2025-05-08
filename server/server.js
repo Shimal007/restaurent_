@@ -138,26 +138,26 @@ const seedData = async () => {
                     {
                         name: "Chicken Tacos",
                         price: 9.99,
-                        image: "https://images.unsplash.com/photo-1599974579688-8db88c07b20b",
+                        image: "https://images.unsplash.com/photo-1648437595587-e6a8b0cdf1f9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3RyZWV0JTIwdGFjb3N8ZW58MHx8MHx8fDA%3D",
                         description: "Soft corn tortillas with grilled chicken and salsa"
                     },
                     {
                         name: "Burrito Supreme",
                         price: 11.49,
-                        image: "https://images.unsplash.com/photo-1562059390-a761a084802c",
+                        image:  "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVycml0b3xlbnwwfHwwfHx8MA%3D%3D",
                         description: "Flour tortilla stuffed with beef, beans, and cheese"
                     },
                     {
                         name: "Churros",
                         price: 5.99,
-                        image: "https://images.unsplash.com/photo-1626016736488-4d37856906a5",
+                        image: "https://images.unsplash.com/photo-1624371414361-e670edf4898d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2h1cnJvc3xlbnwwfHwwfHx8MA%3D%3D",
                         description: "Crispy fried dough dusted with cinnamon sugar"
                     }
                 ]
             },
             {
                 name: "Spice of India",
-                image: "https://images.unsplash.com/photo-1567189717699-7b0bd33c6c2c",
+                image: "https://plus.unsplash.com/premium_photo-1669130744503-4939a5bcef43?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwc3BpY2V8ZW58MHx8MHx8fDA%3D",
                 cuisine: "Indian",
                 deliveryTime: "35-45 mins",
                 rating: 4.4,
@@ -165,26 +165,26 @@ const seedData = async () => {
                     {
                         name: "Butter Chicken",
                         price: 13.99,
-                        image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+                        image: "https://plus.unsplash.com/premium_photo-1661419883163-bb4df1c10109?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnV0dGVyJTIwY2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D",
                         description: "Tender chicken in a creamy tomato sauce"
                     },
                     {
                         name: "Vegetable Biryani",
                         price: 10.99,
-                        image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+                        image: "https://plus.unsplash.com/premium_photo-1661419883163-bb4df1c10109?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnV0dGVyJTIwY2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D",
                         description: "Fragrant basmati rice with mixed vegetables"
                     },
                     {
                         name: "Naan Bread",
                         price: 2.99,
-                        image: "https://images.unsplash.com/photo-1589211737733-07d8f08f6262",
+                        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTdd5MsQQDam2mBRvTFFhmcOCubQINlCV_aw&s",
                         description: "Soft, fluffy Indian flatbread"
                     }
                 ]
             },
             {
                 name: "Burger Bonanza",
-                image: "https://images.unsplash.com/photo-1553979459-d2229c1e6d6f",
+                image: "https://images.unsplash.com/photo-1571091718767-18b5b1457add?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
                 cuisine: "American",
                 deliveryTime: "15-25 mins",
                 rating: 4.3,
