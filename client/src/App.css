@@ -263,7 +263,7 @@ body {
 /* Cart */
 .cart-container {
   position: fixed;
-  top: 1rem;
+  top: 5rem;
   right: 1rem;
   width: 350px;
   max-height: 80vh;
@@ -485,7 +485,7 @@ body {
   }
 
   .cart-container {
-    width: 90%;
+    width: 150%;
     right: 5%;
   }
 }
